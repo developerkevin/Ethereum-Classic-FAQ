@@ -185,13 +185,12 @@ parents but are still related to the parents.  Hence they are like uncles.
 
 ### How do I interact with the community?
 
-There are several ways.  The most important are the [Slack
-channels](http://ethereumclassic.herokuapp.com/).  There is also a [Reddit
-forum](https://www.reddit.com/r/EthereumClassic/).  Finally, several
+There are several ways.  The most important are the [Discord Channels](https://discord.gg/HgBa9b4). Second would be the [ETC Forum](https://forum.ethereumclassic.org) There is also a [Reddit
+forum](https://www.reddit.com/r/EthereumClassic/). Finally, several
 projects are hosted on [Github](https://github.com/ethereumproject).
 
 ### How do I learn about related news?
 
-You can follow things on [Twitter](https://twitter.com/eth_classic),
+You can follow things on [ETC Forum](https://forum.ethereumclassic.org), [Twitter](https://twitter.com/eth_classic),
 [Reddit](https://www.reddit.com/r/EthereumClassic/) or
 [Facebook](https://www.facebook.com/EthereumClassicETC/) for a start.
