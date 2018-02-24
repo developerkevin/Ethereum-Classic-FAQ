@@ -31,7 +31,7 @@
 
 ### How do I acquire Ethereum Classic?
 * [What is an Exchange](#user-content-what-is-an-exchange)
-* [Exchanges](#user-content-exchanges)
+* [Exchanges List](#user-content-exchanges-list)
 
 &nbsp;
 
@@ -53,7 +53,7 @@ Ethereum Classic is a public, secure, trustless and decentralized platform for r
 
 One common misunderstanding is that Ethereum Classic is a currency, when in all reality it is not. ETC or Ether is the currency of the Ethereum Classic ecosystem. 
 
-### How is Ethereum Classic related to Ethereum?
+### How is Ethereum Classic Related to Ethereum?
 
 To understand the relationship it is important to understand the history. It is
 especially important to be familiar with the [DAO
@@ -64,7 +64,7 @@ Independence](https://ethereumclassic.github.io/assets/ETC_Declaration_of_Indepe
 
 It is important to remember that Ethereum and Classic have the same technological roots, and benefit from the same features as the other. Before the community split there was already two ideas of what Ethereum would be: A world computer or a better more useful Bitcoin. When the decision was made to bailout the select group of investors, one group maintained the original chain, preserving its immutability. This chain is now known as Ethereum Classic, whereas the Ethereum Fork created what we now know as Ethereum. 
 
-### How is Ethereum Classic related to Bitcoin?
+### How is Ethereum Classic Related to Bitcoin?
 
 Bitcoin was the first successful digital currency using blockchain technology. By comparison, Ethereum Classic is a Proof of Work based decentralized public ledger, with a built in Turing complete programming language, which allows the use of Smart Contracts, and creation of Dapps (Decentralized Apps).
 
@@ -94,7 +94,7 @@ They’re thought of as contracts because they contain instructions that command
 Smart Contracts can simplify people’s lives as well as business functions and the jobs of many governments, agencies, and corporations. They are, in essence, agreements that can be used for nearly any kind of situation. Examples include transferring car titles or property values, managing marriage and divorce agreements, placing bets in fantasy sports leagues, managing payments on student loans and more. 
 
 
-### What is ether?
+### What is Ether?
 
 Ether or ETC is the native currency used to fuel the Classic Platform. In order for any function to occur on the blockchain, including the execution of Smart Contracts, Dapps, and any other transactions there needs to be gas to fuel it along. Ether or ETC is the gas for the network. It is used to pay for computation within the EVM. This is done indirectly by purchasing gas for ether as explained in gas.
 
@@ -108,7 +108,7 @@ Wei is the smallest denomination in which you can transact ETC, just as pennies 
 
 Other Ether denominations are a Finney (a thousandth of an ETC), a Szabo (a millionth of an ETC), and a Shannon (aka Gwei or Nano), which is a billionth of an ETC. 
 
-### What is gas?
+### What is Gas?
 
 For basics: Gas is the amount of ETC one pays as the internal cost of executing a transaction or smart contract in Classic. In detail: Gas is a measurement that is roughly equivalent to the computational effort required to execute a transaction. 
 
@@ -131,16 +131,16 @@ tasks such as installing new smart contracts.
 
 &nbsp;
 
-### What is a dapp?
+### What is a Dapp?
 
-A dapp is a distributed application. Dapps are programs, tools, or applications that run on the decentralized Ethereum blockchain. They may be referred to as smart contracts. The term is used to distinguish decentralized applications that run on the blockchain from centralized applications.
+A dapp is a distributed application. Dapps are programs, tools, or applications that run on the decentralized Ethereum Classic blockchain. They may be referred to as smart contracts. The term is used to distinguish decentralized applications that run on the blockchain from centralized applications.
 
 Most people are familiar with the typical centralized applications they download and run on their phones or computers. Centralized applications put trust – data, content, account information, vital functionality – into one main entity: typically servers, data banks, or standalone computers. The Ethereum Classic network, however, is community-based, uncontrolled by any single authority. Dapps may not be served from one central server, but instead can live on the network. 
 Regular apps have all their data coming from their own company servers and have one single authority. They require a user login that collects your personal identity data (name, birthdate, address, etc.). In contrast, Dapps can work off the blockchain to function and simply require a private address (a random string of characters that holds no personal information) for users to log in.
 
 Dapps are critical because they can be used to connect buyers and sellers in marketplaces, for sharing or storing files, maintaining a virtual currency, and executing smart contracts all in a system devoid of complete ownership or censorship. Some existing Dapps include image upload and storage tools, ad servers, security tools, and crowdfunding platforms. Other commonly used Dapps are digital wallets, that serve as a tool for managing and using Ether.
 
-### How do I create a dapp?
+### How do I Create a Dapp?
 
 To create a dapp for Ethereum Classic you must program one in a smart contract
 programming language.  Then, you must compile that dapp and install it on the
@@ -214,22 +214,23 @@ parents but are still related to the parents.  Hence they are like uncles.
 
 &nbsp;
 
-### How do I interact with the community?
+### How do I Interact with the Community?
 
 There are several ways.  The most important are the [Discord Channels](https://discord.gg/HgBa9b4). Second would be the [ETC Forum](https://forum.ethereumclassic.org) There is also a [Reddit
 forum](https://www.reddit.com/r/EthereumClassic/). Finally, several
 projects are hosted on [Github](https://github.com/ethereumproject).
 
-### How do I learn about related news?
+### How do I Learn About Related News?
 
-You can follow things on [ETC Forum](https://forum.ethereumclassic.org), [Twitter](https://twitter.com/eth_classic),
-[Reddit](https://www.reddit.com/r/EthereumClassic/) or
-[Facebook](https://www.facebook.com/EthereumClassicETC/) for a start.
+You can follow updates on the [ETC Forum](https://forum.ethereumclassic.org), [Twitter](https://twitter.com/eth_classic), [Classic is Coming Twitter](https://twitter.com/classiciscoming),[Reddit](https://www.reddit.com/r/EthereumClassic/) or
+[Discord](https://discord.gg/HW4GckH) to begin. 
 
 
 
 ---
+
 ### How do I acquire Ethereum Classic
+
 ---
 
 &nbsp;
