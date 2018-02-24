@@ -29,6 +29,10 @@
 * [How do I interact with the community?](#user-content-how-do-i-interact-with-the-community)
 * [How do I learn about related news?](#user-content-how-do-i-learn-about-related-news)
 
+### How do I acquire Ethereum Classic?
+* [What is an Exchange](#user-content-what-is-an-exchange)
+* [Exchanges](#user-content-exchanges)
+
 &nbsp;
 
 &nbsp;
@@ -45,8 +49,9 @@
 
 ### What is Ethereum Classic?
 
-Ethereum Classic is a public, secure, trustless and
-decentralized platform for running smart contract applications.
+Ethereum Classic is a public, secure, trustless and decentralized platform for running smart contract applications. It's a very broad programming platform where a software developer can build games, financial applications, gambling applications, utility and logistics software, social networks, and pretty much everything already in use today. It was conceived of by programmers advocating the use of a decentralized and distributed network as a tool for ensuring that no company or state organization could abuse its power over others. 
+
+One common misunderstanding is that Ethereum Classic is a currency, when in all reality it is not. ETC or Ether is the currency of the Ethereum Classic ecosystem. 
 
 ### How is Ethereum Classic related to Ethereum?
 
@@ -61,7 +66,7 @@ It is important to remember that Ethereum and Classic have the same technologica
 
 ### How is Ethereum Classic related to Bitcoin?
 
-Bitcoin was the first successful digital currency, using blockchain technology. Ethereum Classic is a turing-complete digital currency, using blockchain technology that allows the programming of many types of decentralized applications on top of the a blockchain.
+Bitcoin was the first successful digital currency using blockchain technology. By comparison, Ethereum Classic is a Proof of Work based decentralized public ledger, with a built in Turing complete programming language, which allows the use of Smart Contracts, and creation of Dapps (Decentralized Apps).
 
 ### What is a blockchain?
 
@@ -91,7 +96,7 @@ Smart Contracts can simplify people’s lives as well as business functions and 
 
 ### What is ether?
 
-Ether and ETC is the native currency used to fuel the Classic Platform. In order for any function to occur on the blockchain, including the execution of Smart Contracts, Dapps, and any other transactions there needs to be gas to fuel it along. Ether or ETC is the gas for the network. It is used to pay for computation within the EVM. This is done indirectly by purchasing gas for ether as explained in gas.
+Ether or ETC is the native currency used to fuel the Classic Platform. In order for any function to occur on the blockchain, including the execution of Smart Contracts, Dapps, and any other transactions there needs to be gas to fuel it along. Ether or ETC is the gas for the network. It is used to pay for computation within the EVM. This is done indirectly by purchasing gas for ether as explained in gas.
 
 In addition to serving as fuel for the Ethereum blockchain, Ether can be used as a token for Ethereum-platform-based utilities, as a global currency to pay for goods and services, and also as an investment with store of value properties. 
 
@@ -129,6 +134,7 @@ tasks such as installing new smart contracts.
 ### What is a dapp?
 
 A dapp is a distributed application. Dapps are programs, tools, or applications that run on the decentralized Ethereum blockchain. They may be referred to as smart contracts. The term is used to distinguish decentralized applications that run on the blockchain from centralized applications.
+
 Most people are familiar with the typical centralized applications they download and run on their phones or computers. Centralized applications put trust – data, content, account information, vital functionality – into one main entity: typically servers, data banks, or standalone computers. The Ethereum Classic network, however, is community-based, uncontrolled by any single authority. Dapps may not be served from one central server, but instead can live on the network. 
 Regular apps have all their data coming from their own company servers and have one single authority. They require a user login that collects your personal identity data (name, birthdate, address, etc.). In contrast, Dapps can work off the blockchain to function and simply require a private address (a random string of characters that holds no personal information) for users to log in.
 
@@ -140,15 +146,15 @@ To create a dapp for Ethereum Classic you must program one in a smart contract
 programming language.  Then, you must compile that dapp and install it on the
 blockchain from a funded account.
 
-### How do I purchase ether for an account?
+### How do I acquire Ethereum Classic?
 
-You can purchase ether on several *exchanges*.  You can also *mine* for ether.
+You can purchase ETC on numerous *exchanges*.  You can also *mine* ether.
 
 ### What smart contract programming languages are there?
 
 Solidity is similar to Javascript and the most popular.  Serpent is
 similar to Python and also available.  LLL is yet another choice that is similar
-to Lisp.  There are other smart contract languages being developed as well such as Go, Rust, and Scala.
+to Lisp.  There are other smart contract languages being developed as well such as Go, Rust, Viper and Scala.
 
 &nbsp;
 
@@ -219,3 +225,62 @@ projects are hosted on [Github](https://github.com/ethereumproject).
 You can follow things on [ETC Forum](https://forum.ethereumclassic.org), [Twitter](https://twitter.com/eth_classic),
 [Reddit](https://www.reddit.com/r/EthereumClassic/) or
 [Facebook](https://www.facebook.com/EthereumClassicETC/) for a start.
+
+
+
+---
+### How do I acquire Ethereum Classic
+---
+
+&nbsp;
+
+### What is an Exchange
+
+An exchange is a marketplace in which securities, commodities, derivatives, and other financial instruments are traded. 
+
+Virtual currency exchanges allow their customers to trade digital currencies, commodities, and assets – usually for other virtual currencies, but also for other assets such as fiat money. Some exchanges allow for traditional assets, such as stock in a company, to be traded with digital currency. 
+
+Most trades on these virtual exchanges occur on a peer-to-peer basis. However, some exchanges permit direct purchase of Ether at market price. In others, the user is permitted to dictate what they are able to pay through the exchange’s buy-and-sell mechanism. 
+
+### Exchanges List
+* [Bitfinex](https://bitfinex.com)
+
+* [BitMEX](https://bitmex.com/app/trade/ETC7D)
+
+* [Bitsquare](https://bitsquare.io)
+
+* [Bittrex](https://bittrex.com)
+
+* [BTER](https://bter.com/trade/etc_btc)
+
+* [Changelly](https://changelly.com/exchange/BTC/ETC/1)
+
+* [ChangeNow](https://changenow.io/?utm_source=etcreddit)
+
+* [CHBTC](https://trans.chbtc.com/etc)
+
+* [Coinexchange](https://coinexchange.io/market/ETC/BTC)
+
+* [Coinut](https://coinut.com/)
+
+* [Coinex](https://www.coinex.com)
+
+* [Evercoin](https://evercoin.com)
+
+* [FXOpen](https://www.fxopen.com)
+
+* [Kraken](https://kraken.com)
+
+* [Korbit](https://korbit.co.kr/etc_market)
+
+* [LiteBit](https://www.litebit.eu/en/buy/ethereumclassic)
+
+* [OKExchange](https://okex.com)
+
+* [Poloniex](https://poloniex.com)
+
+* [Shapeshift.io](https://shapeshift.io)
+
+* [Yobit](https://yobit.net/en/trade/ETC/BTC)
+
+* [Yunbi](http://yunbi.com/)
